@@ -1,0 +1,14 @@
+﻿from;to;weight
+Konrad;Katja;3
+Konrad;Felix;3
+Katja;Felix;3
+Nicki;Konrad;3
+Nicki;Katja;1
+Felix;Nicki;1
+Konrad;Moritz;2
+Konrad;Christian;2
+Christian;Moritz;3
+Nils;Konrad;2
+Fabian;Konrad;3
+Nils;Fabian;1
+Fabian;Nicki;2
